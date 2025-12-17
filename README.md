@@ -5,11 +5,12 @@ This is the repository of our log analysis conducted in R. This is supposed to a
 ---===---
 How to run:
 
-- Download and Extract the "Jobindex Log Analysis" file
+- Download the "Jobindex Log Analysis" file
+- Extract the .zip files containing the .csv files one by one, until you folder looks like the Folder.png (we still need to add this png)
 - Run the "Jobindex Log Analysis Workspace"
-- Open the folder containing the script you wish to run
+- Open the respective RQ (1,2 or 3) folder containing the Research Question script you wish to run
 - Open the script (it should do it within the workspace)
-- Run the installation command if you haven't previously installed the packages
+- Run the installation command below, if you haven't previously installed the packages
 - Run the script
 
 ---===---
