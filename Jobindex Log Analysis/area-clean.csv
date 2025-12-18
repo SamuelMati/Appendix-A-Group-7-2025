@@ -1,0 +1,1485 @@
+location_id,location_name
+1,Region Hovedstaden
+2,Region Midtjylland
+3,Region Nordjylland
+4,Region Sjælland
+5,Region Syddanmark
+6,Aabenraa
+7,Aalborg
+8,Aarhus
+9,Ærø
+10,Albertslund
+11,Allerød
+12,Assens
+13,Ballerup
+14,Billund
+15,Bornholm
+16,Brøndby
+17,Brønderslev
+18,Dragør
+19,Egedal
+20,Esbjerg
+21,Faaborg-Midtfyn
+22,Fanø
+23,Favrskov
+24,Faxe
+25,Fredensborg
+26,Fredericia
+27,Frederiksberg
+28,Frederikshavn
+29,Frederikssund
+30,Furesø
+31,Gentofte
+32,Gladsaxe
+33,Glostrup
+34,Greve
+35,Gribskov
+36,Guldborgsund
+37,Haderslev
+38,Halsnæs
+39,Hedensted
+40,Helsingør
+41,Herlev
+42,Herning
+43,Hillerød
+44,Hjørring
+45,Høje Taastrup
+46,Hørsholm
+47,Holbæk
+48,Holstebro
+49,Horsens
+50,Hvidovre
+51,Ikast-Brande
+52,Ishøj
+53,Jammerbugt
+54,Kalundborg
+55,Kerteminde
+56,København
+57,Køge
+58,Kolding
+59,Læsø
+60,Langeland
+61,Lejre
+62,Lemvig
+63,Lolland
+64,Lyngby-Taarbæk
+65,Mariagerfjord
+66,Middelfart
+67,Morsø
+68,Næstved
+69,Norddjurs
+70,Nordfyn
+71,Nyborg
+72,Odder
+73,Odense
+74,Odsherred
+75,Randers
+76,Rebild
+77,Ringkøbing-Skjern
+78,Ringsted
+79,Rødovre
+80,Roskilde
+81,Rudersdal
+82,Samsø
+83,Silkeborg
+84,Skanderborg
+85,Skive
+86,Slagelse
+87,Sønderborg
+88,Solrød
+89,Sorø
+90,Stevns
+91,Struer
+92,Svendborg
+93,Syddjurs
+94,Tårnby
+95,Thisted
+96,Tønder
+97,Vallensbæk
+98,Varde
+99,Vejen
+100,Vejle
+101,Vesthimmerland
+102,Viborg
+103,Vordingborg
+104,1050 København K
+105,1051 København K
+106,1052 København K
+107,1053 København K
+108,1054 København K
+109,1055 København K
+110,1056 København K
+111,1057 København K
+112,1058 København K
+113,1059 København K
+114,1060 København K
+115,1061 København K
+116,1062 København K
+117,1063 København K
+118,1064 København K
+119,1065 København K
+120,1066 København K
+121,1067 København K
+122,1068 København K
+123,1069 København K
+124,1070 København K
+125,1071 København K
+126,1072 København K
+127,1073 København K
+128,1074 København K
+129,1100 København K
+130,1101 København K
+131,1102 København K
+132,1103 København K
+133,1104 København K
+134,1105 København K
+135,1106 København K
+136,1107 København K
+137,1110 København K
+138,1111 København K
+139,1112 København K
+140,1113 København K
+141,1114 København K
+142,1115 København K
+143,1116 København K
+144,1117 København K
+145,1118 København K
+146,1119 København K
+147,1120 København K
+148,1121 København K
+149,1122 København K
+150,1123 København K
+151,1124 København K
+152,1125 København K
+153,1126 København K
+154,1127 København K
+155,1128 København K
+156,1129 København K
+157,1130 København K
+158,1131 København K
+159,1150 København K
+160,1151 København K
+161,1152 København K
+162,1153 København K
+163,1154 København K
+164,1155 København K
+165,1156 København K
+166,1157 København K
+167,1158 København K
+168,1159 København K
+169,1160 København K
+170,1161 København K
+171,1164 København K
+172,1165 København K
+173,1166 København K
+174,1167 København K
+175,1168 København K
+176,1169 København K
+177,1170 København K
+178,1171 København K
+179,1172 København K
+180,1173 København K
+181,1174 København K
+182,1175 København K
+183,1200 København K
+184,1201 København K
+185,1202 København K
+186,1203 København K
+187,1204 København K
+188,1205 København K
+189,1206 København K
+190,1207 København K
+191,1208 København K
+192,1209 København K
+193,1210 København K
+194,1211 København K
+195,1212 København K
+196,1213 København K
+197,1214 København K
+198,1215 København K
+199,1216 København K
+200,1218 København K
+201,1219 København K
+202,1220 København K
+203,1221 København K
+204,1250 København K
+205,1251 København K
+206,1252 København K
+207,1253 København K
+208,1254 København K
+209,1255 København K
+210,1256 København K
+211,1257 København K
+212,1259 København K
+213,1260 København K
+214,1261 København K
+215,1263 København K
+216,1264 København K
+217,1265 København K
+218,1266 København K
+219,1267 København K
+220,1268 København K
+221,1270 København K
+222,1271 København K
+223,1300 København K
+224,1301 København K
+225,1302 København K
+226,1303 København K
+227,1304 København K
+228,1306 København K
+229,1307 København K
+230,1308 København K
+231,1309 København K
+232,1310 København K
+233,1311 København K
+234,1312 København K
+235,1313 København K
+236,1314 København K
+237,1315 København K
+238,1316 København K
+239,1317 København K
+240,1318 København K
+241,1319 København K
+242,1320 København K
+243,1321 København K
+244,1322 København K
+245,1323 København K
+246,1324 København K
+247,1325 København K
+248,1326 København K
+249,1327 København K
+250,1328 København K
+251,1329 København K
+252,1350 København K
+253,1352 København K
+254,1353 København K
+255,1354 København K
+256,1355 København K
+257,1356 København K
+258,1357 København K
+259,1358 København K
+260,1359 København K
+261,1360 København K
+262,1361 København K
+263,1362 København K
+264,1363 København K
+265,1364 København K
+266,1365 København K
+267,1366 København K
+268,1367 København K
+269,1368 København K
+270,1369 København K
+271,1370 København K
+272,1371 København K
+273,1400 København K
+274,1401 København K
+275,1402 København K
+276,1403 København K
+277,1406 København K
+278,1407 København K
+279,1408 København K
+280,1409 København K
+281,1410 København K
+282,1411 København K
+283,1412 København K
+284,1413 København K
+285,1414 København K
+286,1415 København K
+287,1416 København K
+288,1417 København K
+289,1418 København K
+290,1419 København K
+291,1420 København K
+292,1421 København K
+293,1422 København K
+294,1423 København K
+295,1424 København K
+296,1425 København K
+297,1426 København K
+298,1427 København K
+299,1428 København K
+300,1429 København K
+301,1430 København K
+302,1432 København K
+303,1433 København K
+304,1434 København K
+305,1435 København K
+306,1436 København K
+307,1437 København K
+308,1438 København K
+309,1439 København K
+310,1440 København K
+311,1441 København K
+312,1450 København K
+313,1451 København K
+314,1452 København K
+315,1453 København K
+316,1454 København K
+317,1455 København K
+318,1456 København K
+319,1457 København K
+320,1458 København K
+321,1459 København K
+322,1460 København K
+323,1461 København K
+324,1462 København K
+325,1463 København K
+326,1464 København K
+327,1465 København K
+328,1466 København K
+329,1467 København K
+330,1468 København K
+331,1470 København K
+332,1471 København K
+333,1472 København K
+334,1473 København K
+335,1550 København V
+336,1551 København V
+337,1552 København V
+338,1553 København V
+339,1554 København V
+340,1555 København V
+341,1556 København V
+342,1557 København V
+343,1558 København V
+344,1559 København V
+345,1560 København V
+346,1561 København V
+347,1562 København V
+348,1563 København V
+349,1564 København V
+350,1567 København V
+351,1568 København V
+352,1569 København V
+353,1570 København V
+354,1571 København V
+355,1572 København V
+356,1573 København V
+357,1574 København V
+358,1575 København V
+359,1576 København V
+360,1577 København V
+361,1600 København V
+362,1601 København V
+363,1602 København V
+364,1603 København V
+365,1604 København V
+366,1605 København V
+367,1606 København V
+368,1607 København V
+369,1608 København V
+370,1609 København V
+371,1610 København V
+372,1611 København V
+373,1612 København V
+374,1613 København V
+375,1614 København V
+376,1615 København V
+377,1616 København V
+378,1617 København V
+379,1618 København V
+380,1619 København V
+381,1620 København V
+382,1621 København V
+383,1622 København V
+384,1623 København V
+385,1624 København V
+386,1631 København V
+387,1632 København V
+388,1633 København V
+389,1634 København V
+390,1635 København V
+391,1650 København V
+392,1651 København V
+393,1652 København V
+394,1653 København V
+395,1654 København V
+396,1655 København V
+397,1656 København V
+398,1657 København V
+399,1658 København V
+400,1659 København V
+401,1660 København V
+402,1661 København V
+403,1662 København V
+404,1663 København V
+405,1664 København V
+406,1665 København V
+407,1666 København V
+408,1667 København V
+409,1668 København V
+410,1669 København V
+411,1670 København V
+412,1671 København V
+413,1672 København V
+414,1673 København V
+415,1674 København V
+416,1675 København V
+417,1676 København V
+418,1677 København V
+419,1699 København V
+420,1700 København V
+421,1701 København V
+422,1702 København V
+423,1703 København V
+424,1704 København V
+425,1705 København V
+426,1706 København V
+427,1707 København V
+428,1708 København V
+429,1709 København V
+430,1710 København V
+431,1711 København V
+432,1712 København V
+433,1714 København V
+434,1715 København V
+435,1716 København V
+436,1717 København V
+437,1718 København V
+438,1719 København V
+439,1720 København V
+440,1721 København V
+441,1722 København V
+442,1723 København V
+443,1724 København V
+444,1725 København V
+445,1726 København V
+446,1727 København V
+447,1728 København V
+448,1729 København V
+449,1730 København V
+450,1731 København V
+451,1732 København V
+452,1733 København V
+453,1734 København V
+454,1735 København V
+455,1736 København V
+456,1737 København V
+457,1738 København V
+458,1739 København V
+459,1749 København V
+460,1750 København V
+461,1751 København V
+462,1752 København V
+463,1753 København V
+464,1754 København V
+465,1755 København V
+466,1756 København V
+467,1757 København V
+468,1758 København V
+469,1759 København V
+470,1760 København V
+471,1761 København V
+472,1762 København V
+473,1763 København V
+474,1764 København V
+475,1765 København V
+476,1766 København V
+477,1770 København V
+478,1771 København V
+479,1772 København V
+480,1773 København V
+481,1774 København V
+482,1775 København V
+483,1777 København V
+484,1799 København V
+485,1800 Frederiksberg C
+486,1801 Frederiksberg C
+487,1802 Frederiksberg C
+488,1803 Frederiksberg C
+489,1804 Frederiksberg C
+490,1805 Frederiksberg C
+491,1806 Frederiksberg C
+492,1807 Frederiksberg C
+493,1808 Frederiksberg C
+494,1809 Frederiksberg C
+495,1810 Frederiksberg C
+496,1811 Frederiksberg C
+497,1812 Frederiksberg C
+498,1813 Frederiksberg C
+499,1814 Frederiksberg C
+500,1815 Frederiksberg C
+501,1816 Frederiksberg C
+502,1817 Frederiksberg C
+503,1818 Frederiksberg C
+504,1819 Frederiksberg C
+505,1820 Frederiksberg C
+506,1822 Frederiksberg C
+507,1823 Frederiksberg C
+508,1824 Frederiksberg C
+509,1825 Frederiksberg C
+510,1826 Frederiksberg C
+511,1827 Frederiksberg C
+512,1828 Frederiksberg C
+513,1829 Frederiksberg C
+514,1850 Frederiksberg C
+515,1851 Frederiksberg C
+516,1852 Frederiksberg C
+517,1853 Frederiksberg C
+518,1854 Frederiksberg C
+519,1855 Frederiksberg C
+520,1856 Frederiksberg C
+521,1857 Frederiksberg C
+522,1860 Frederiksberg C
+523,1861 Frederiksberg C
+524,1862 Frederiksberg C
+525,1863 Frederiksberg C
+526,1864 Frederiksberg C
+527,1865 Frederiksberg C
+528,1866 Frederiksberg C
+529,1867 Frederiksberg C
+530,1868 Frederiksberg C
+531,1870 Frederiksberg C
+532,1871 Frederiksberg C
+533,1872 Frederiksberg C
+534,1873 Frederiksberg C
+535,1874 Frederiksberg C
+536,1875 Frederiksberg C
+537,1876 Frederiksberg C
+538,1877 Frederiksberg C
+539,1878 Frederiksberg C
+540,1879 Frederiksberg C
+541,1900 Frederiksberg C
+542,1901 Frederiksberg C
+543,1902 Frederiksberg C
+544,1903 Frederiksberg C
+545,1904 Frederiksberg C
+546,1905 Frederiksberg C
+547,1906 Frederiksberg C
+548,1908 Frederiksberg C
+549,1909 Frederiksberg C
+550,1910 Frederiksberg C
+551,1911 Frederiksberg C
+552,1912 Frederiksberg C
+553,1913 Frederiksberg C
+554,1914 Frederiksberg C
+555,1915 Frederiksberg C
+556,1916 Frederiksberg C
+557,1917 Frederiksberg C
+558,1920 Frederiksberg C
+559,1921 Frederiksberg C
+560,1922 Frederiksberg C
+561,1923 Frederiksberg C
+562,1924 Frederiksberg C
+563,1925 Frederiksberg C
+564,1926 Frederiksberg C
+565,1927 Frederiksberg C
+566,1928 Frederiksberg C
+567,1950 Frederiksberg C
+568,1951 Frederiksberg C
+569,1952 Frederiksberg C
+570,1953 Frederiksberg C
+571,1954 Frederiksberg C
+572,1955 Frederiksberg C
+573,1956 Frederiksberg C
+574,1957 Frederiksberg C
+575,1958 Frederiksberg C
+576,1959 Frederiksberg C
+577,1960 Frederiksberg C
+578,1961 Frederiksberg C
+579,1962 Frederiksberg C
+580,1963 Frederiksberg C
+581,1964 Frederiksberg C
+582,1965 Frederiksberg C
+583,1966 Frederiksberg C
+584,1967 Frederiksberg C
+585,1970 Frederiksberg C
+586,1971 Frederiksberg C
+587,1972 Frederiksberg C
+588,1973 Frederiksberg C
+589,1974 Frederiksberg C
+590,2000 Frederiksberg
+591,2100 København Ø
+592,2150 Nordhavn
+593,2200 København N
+594,2300 København S
+595,2400 København NV
+596,2450 København SV
+597,2500 Valby
+598,2600 Glostrup
+599,2605 Brøndby
+600,2610 Rødovre
+601,2620 Albertslund
+602,2625 Vallensbæk
+603,2630 Taastrup
+604,2635 Ishøj
+605,2640 Hedehusene
+606,2650 Hvidovre
+607,2660 Brøndby Strand
+608,2665 Vallensbæk Strand
+609,2670 Greve
+610,2680 Solrød Strand
+611,2690 Karlslunde
+612,2700 Brønshøj
+613,2720 Vanløse
+614,2730 Herlev
+615,2740 Skovlunde
+616,2750 Ballerup
+617,2760 Måløv
+618,2765 Smørum
+619,2770 Kastrup
+620,2791 Dragør
+621,2800 Kgs. Lyngby
+622,2820 Gentofte
+623,2830 Virum
+624,2840 Holte
+625,2850 Nærum
+626,2860 Søborg
+627,2870 Dyssegård
+628,2880 Bagsværd
+629,2900 Hellerup
+630,2920 Charlottenlund
+631,2930 Klampenborg
+632,2942 Skodsborg
+633,2950 Vedbæk
+634,2960 Rungsted Kyst
+635,2970 Hørsholm
+636,2980 Kokkedal
+637,2990 Nivå
+638,3000 Helsingør
+639,3050 Humlebæk
+640,3060 Espergærde
+641,3070 Snekkersten
+642,3080 Tikøb
+643,3100 Hornbæk
+644,3120 Dronningmølle
+645,3140 Ålsgårde
+646,3150 Hellebæk
+647,3200 Helsinge
+648,3210 Vejby
+649,3220 Tisvildeleje
+650,3230 Græsted
+651,3250 Gilleleje
+652,3300 Frederiksværk
+653,3310 Ølsted
+654,3320 Skævinge
+655,3330 Gørløse
+656,3360 Liseleje
+657,3370 Melby
+658,3390 Hundested
+659,3400 Hillerød
+660,3450 Allerød
+661,3460 Birkerød
+662,3480 Fredensborg
+663,3490 Kvistgård
+664,3500 Værløse
+665,3520 Farum
+666,3540 Lynge
+667,3550 Slangerup
+668,3600 Frederikssund
+669,3630 Jægerspris
+670,3650 Ølstykke
+671,3660 Stenløse
+672,3670 Veksø Sjælland
+673,3700 Rønne
+674,3720 Aakirkeby
+675,3730 Nexø
+676,3740 Svaneke
+677,3751 Østermarie
+678,3760 Gudhjem
+679,3770 Allinge
+680,3782 Klemensker
+681,3790 Hasle
+682,4000 Roskilde
+683,4030 Tune
+684,4040 Jyllinge
+685,4050 Skibby
+686,4060 Kirke Såby
+687,4070 Kirke Hyllinge
+688,4100 Ringsted
+689,4130 Viby Sjælland
+690,4140 Borup
+691,4160 Herlufmagle
+692,4171 Glumsø
+693,4173 Fjenneslev
+694,4174 Jystrup Midtsj
+695,4180 Sorø
+696,4190 Munke Bjergby
+697,4200 Slagelse
+698,4220 Korsør
+699,4230 Skælskør
+700,4241 Vemmelev
+701,4242 Boeslunde
+702,4243 Rude
+703,4244 Agersø
+704,4245 Omø
+705,4250 Fuglebjerg
+706,4261 Dalmose
+707,4262 Sandved
+708,4270 Høng
+709,4281 Gørlev
+710,4291 Ruds Vedby
+711,4293 Dianalund
+712,4295 Stenlille
+713,4296 Nyrup
+714,4300 Holbæk
+715,4305 Orø
+716,4320 Lejre
+717,4330 Hvalsø
+718,4340 Tølløse
+719,4350 Ugerløse
+720,4360 Kirke Eskilstrup
+721,4370 Store Merløse
+722,4390 Vipperød
+723,4400 Kalundborg
+724,4420 Regstrup
+725,4440 Mørkøv
+726,4450 Jyderup
+727,4460 Snertinge
+728,4470 Svebølle
+729,4480 Store Fuglede
+730,4490 Jerslev Sjælland
+731,4500 Nykøbing Sj
+732,4520 Svinninge
+733,4532 Gislinge
+734,4534 Hørve
+735,4540 Fårevejle
+736,4550 Asnæs
+737,4560 Vig
+738,4571 Grevinge
+739,4572 Nørre Asmindrup
+740,4573 Højby
+741,4581 Rørvig
+742,4583 Sjællands Odde
+743,4591 Føllenslev
+744,4592 Sejerø
+745,4593 Eskebjerg
+746,4600 Køge
+747,4621 Gadstrup
+748,4622 Havdrup
+749,4623 Lille Skensved
+750,4632 Bjæverskov
+751,4640 Faxe
+752,4652 Hårlev
+753,4653 Karise
+754,4654 Faxe Ladeplads
+755,4660 Store Heddinge
+756,4671 Strøby
+757,4672 Klippinge
+758,4673 Rødvig Stevns
+759,4681 Herfølge
+760,4682 Tureby
+761,4683 Rønnede
+762,4684 Holmegaard
+763,4690 Haslev
+764,4700 Næstved
+765,4720 Præstø
+766,4733 Tappernøje
+767,4735 Mern
+768,4736 Karrebæksminde
+769,4750 Lundby
+770,4760 Vordingborg
+771,4771 Kalvehave
+772,4772 Langebæk
+773,4773 Stensved
+774,4780 Stege
+775,4791 Borre
+776,4792 Askeby
+777,4793 Bogø By
+778,4800 Nykøbing F
+779,4840 Nørre Alslev
+780,4850 Stubbekøbing
+781,4862 Guldborg
+782,4863 Eskilstrup
+783,4871 Horbelev
+784,4872 Idestrup
+785,4873 Væggerløse
+786,4874 Gedser
+787,4880 Nysted
+788,4891 Toreby L
+789,4892 Kettinge
+790,4894 Øster Ulslev
+791,4895 Errindlev
+792,4900 Nakskov
+793,4912 Harpelunde
+794,4913 Horslunde
+795,4920 Søllested
+796,4930 Maribo
+797,4941 Bandholm
+798,4942 Askø-Lilleø
+799,4943 Torrig L
+800,4944 Fejø
+801,4945 Femø
+802,4951 Nørreballe
+803,4952 Stokkemarke
+804,4953 Vesterborg
+805,4960 Holeby
+806,4970 Rødby
+807,4983 Dannemare
+808,4990 Sakskøbing
+809,5000 Odense C
+810,5200 Odense V
+811,5210 Odense NV
+812,5220 Odense SØ
+813,5230 Odense M
+814,5240 Odense NØ
+815,5250 Odense SV
+816,5260 Odense S
+817,5270 Odense N
+818,5290 Marslev
+819,5300 Kerteminde
+820,5320 Agedrup
+821,5330 Munkebo
+822,5350 Rynkeby
+823,5370 Mesinge
+824,5380 Dalby
+825,5390 Martofte
+826,5400 Bogense
+827,5450 Otterup
+828,5462 Morud
+829,5463 Harndrup
+830,5464 Brenderup Fyn
+831,5466 Asperup
+832,5471 Søndersø
+833,5474 Veflinge
+834,5485 Skamby
+835,5491 Blommenslyst
+836,5492 Vissenbjerg
+837,5500 Middelfart
+838,5540 Ullerslev
+839,5550 Langeskov
+840,5560 Aarup
+841,5580 Nørre Aaby
+842,5591 Gelsted
+843,5592 Ejby
+844,5600 Faaborg
+845,5602 Avernakø
+846,5603 Bjørnø
+847,5610 Assens
+848,5620 Glamsbjerg
+849,5631 Ebberup
+850,5642 Millinge
+851,5672 Broby
+852,5683 Haarby
+853,5690 Tommerup
+854,5700 Svendborg
+855,5750 Ringe
+856,5762 Vester Skerninge
+857,5771 Stenstrup
+858,5772 Kværndrup
+859,5792 Årslev
+860,5800 Nyborg
+861,5853 Ørbæk
+862,5854 Gislev
+863,5856 Ryslinge
+864,5863 Ferritslev Fyn
+865,5871 Frørup
+866,5874 Hesselager
+867,5881 Skårup Fyn
+868,5882 Vejstrup
+869,5883 Oure
+870,5884 Gudme
+871,5892 Gudbjerg Sydfyn
+872,5900 Rudkøbing
+873,5932 Humble
+874,5935 Bagenkop
+875,5943 Strynø
+876,5953 Tranekær
+877,5960 Marstal
+878,5970 Ærøskøbing
+879,5985 Søby Ærø
+880,6000 Kolding
+881,6040 Egtved
+882,6051 Almind
+883,6052 Viuf
+884,6064 Jordrup
+885,6070 Christiansfeld
+886,6091 Bjert
+887,6092 Sønder Stenderup
+888,6093 Sjølund
+889,6094 Hejls
+890,6100 Haderslev
+891,6200 Aabenraa
+892,6210 Barsø
+893,6230 Rødekro
+894,6240 Løgumkloster
+895,6261 Bredebro
+896,6270 Tønder
+897,6280 Højer
+898,6300 Gråsten
+899,6310 Broager
+900,6320 Egernsund
+901,6330 Padborg
+902,6340 Kruså
+903,6360 Tinglev
+904,6372 Bylderup-Bov
+905,6392 Bolderslev
+906,6400 Sønderborg
+907,6430 Nordborg
+908,6440 Augustenborg
+909,6470 Sydals
+910,6500 Vojens
+911,6510 Gram
+912,6520 Toftlund
+913,6534 Agerskov
+914,6535 Branderup J
+915,6541 Bevtoft
+916,6560 Sommersted
+917,6580 Vamdrup
+918,6600 Vejen
+919,6621 Gesten
+920,6622 Bække
+921,6623 Vorbasse
+922,6630 Rødding
+923,6640 Lunderskov
+924,6650 Brørup
+925,6660 Lintrup
+926,6670 Holsted
+927,6682 Hovborg
+928,6683 Føvling
+929,6690 Gørding
+930,6700 Esbjerg
+931,6705 Esbjerg Ø
+932,6710 Esbjerg V
+933,6715 Esbjerg N
+934,6720 Fanø
+935,6731 Tjæreborg
+936,6740 Bramming
+937,6752 Glejbjerg
+938,6753 Agerbæk
+939,6760 Ribe
+940,6771 Gredstedbro
+941,6780 Skærbæk
+942,6792 Rømø
+943,6800 Varde
+944,6818 Årre
+945,6823 Ansager
+946,6830 Nørre Nebel
+947,6840 Oksbøl
+948,6851 Janderup Vestj
+949,6852 Billum
+950,6853 Vejers Strand
+951,6854 Henne
+952,6855 Outrup
+953,6857 Blåvand
+954,6862 Tistrup
+955,6870 Ølgod
+956,6880 Tarm
+957,6893 Hemmet
+958,6900 Skjern
+959,6920 Videbæk
+960,6933 Kibæk
+961,6940 Lem St
+962,6950 Ringkøbing
+963,6960 Hvide Sande
+964,6971 Spjald
+965,6973 Ørnhøj
+966,6980 Tim
+967,6990 Ulfborg
+968,7000 Fredericia
+969,7080 Børkop
+970,7100 Vejle
+971,7120 Vejle Øst
+972,7130 Juelsminde
+973,7140 Stouby
+974,7150 Barrit
+975,7160 Tørring
+976,7171 Uldum
+977,7173 Vonge
+978,7182 Bredsten
+979,7183 Randbøl
+980,7184 Vandel
+981,7190 Billund
+982,7200 Grindsted
+983,7250 Hejnsvig
+984,7260 Sønder Omme
+985,7270 Stakroge
+986,7280 Sønder Felding
+987,7300 Jelling
+988,7321 Gadbjerg
+989,7323 Give
+990,7330 Brande
+991,7361 Ejstrupholm
+992,7362 Hampen
+993,7400 Herning
+994,7430 Ikast
+995,7441 Bording
+996,7442 Engesvang
+997,7451 Sunds
+998,7470 Karup J
+999,7480 Vildbjerg
+1000,7490 Aulum
+1001,7500 Holstebro
+1002,7540 Haderup
+1003,7550 Sørvad
+1004,7560 Hjerm
+1005,7570 Vemb
+1006,7600 Struer
+1007,7620 Lemvig
+1008,7650 Bøvlingbjerg
+1009,7660 Bækmarksbro
+1010,7673 Harboøre
+1011,7680 Thyborøn
+1012,7700 Thisted
+1013,7730 Hanstholm
+1014,7741 Frøstrup
+1015,7742 Vesløs
+1016,7752 Snedsted
+1017,7755 Bedsted Thy
+1018,7760 Hurup Thy
+1019,7770 Vestervig
+1020,7790 Thyholm
+1021,7800 Skive
+1022,7830 Vinderup
+1023,7840 Højslev
+1024,7850 Stoholm Jyll
+1025,7860 Spøttrup
+1026,7870 Roslev
+1027,7884 Fur
+1028,7900 Nykøbing M
+1029,7950 Erslev
+1030,7960 Karby
+1031,7970 Redsted M
+1032,7980 Vils
+1033,7990 Øster Assels
+1034,8000 Aarhus C
+1035,8200 Aarhus N
+1036,8210 Aarhus V
+1037,8220 Brabrand
+1038,8230 Åbyhøj
+1039,8240 Risskov
+1040,8250 Egå
+1041,8260 Viby J
+1042,8270 Højbjerg
+1043,8300 Odder
+1044,8305 Samsø
+1045,8310 Tranbjerg J
+1046,8320 Mårslet
+1047,8330 Beder
+1048,8340 Malling
+1049,8350 Hundslund
+1050,8355 Solbjerg
+1051,8361 Hasselager
+1052,8362 Hørning
+1053,8370 Hadsten
+1054,8380 Trige
+1055,8381 Tilst
+1056,8382 Hinnerup
+1057,8400 Ebeltoft
+1058,8410 Rønde
+1059,8420 Knebel
+1060,8444 Balle
+1061,8450 Hammel
+1062,8462 Harlev J
+1063,8464 Galten
+1064,8471 Sabro
+1065,8472 Sporup
+1066,8500 Grenaa
+1067,8520 Lystrup
+1068,8530 Hjortshøj
+1069,8541 Skødstrup
+1070,8543 Hornslet
+1071,8544 Mørke
+1072,8550 Ryomgård
+1073,8560 Kolind
+1074,8570 Trustrup
+1075,8581 Nimtofte
+1076,8585 Glesborg
+1077,8586 Ørum Djurs
+1078,8592 Anholt
+1079,8600 Silkeborg
+1080,8620 Kjellerup
+1081,8632 Lemming
+1082,8641 Sorring
+1083,8643 Ans By
+1084,8653 Them
+1085,8654 Bryrup
+1086,8660 Skanderborg
+1087,8670 Låsby
+1088,8680 Ry
+1089,8700 Horsens
+1090,8721 Daugård
+1091,8722 Hedensted
+1092,8723 Løsning
+1093,8732 Hovedgård
+1094,8740 Brædstrup
+1095,8751 Gedved
+1096,8752 Østbirk
+1097,8762 Flemming
+1098,8763 Rask Mølle
+1099,8765 Klovborg
+1100,8766 Nørre Snede
+1101,8781 Stenderup
+1102,8783 Hornsyld
+1103,8789 Endelave
+1104,8799 Tunø
+1105,8800 Viborg
+1106,8830 Tjele
+1107,8831 Løgstrup
+1108,8832 Skals
+1109,8840 Rødkærsbro
+1110,8850 Bjerringbro
+1111,8860 Ulstrup
+1112,8870 Langå
+1113,8881 Thorsø
+1114,8882 Fårvang
+1115,8883 Gjern
+1116,8900 Randers C
+1117,8920 Randers NV
+1118,8930 Randers NØ
+1119,8940 Randers SV
+1120,8950 Ørsted
+1121,8960 Randers SØ
+1122,8961 Allingåbro
+1123,8963 Auning
+1124,8970 Havndal
+1125,8981 Spentrup
+1126,8983 Gjerlev J
+1127,8990 Fårup
+1128,9000 Aalborg
+1129,9200 Aalborg SV
+1130,9210 Aalborg SØ
+1131,9220 Aalborg Øst
+1132,9230 Svenstrup J
+1133,9240 Nibe
+1134,9260 Gistrup
+1135,9270 Klarup
+1136,9280 Storvorde
+1137,9293 Kongerslev
+1138,9300 Sæby
+1139,9310 Vodskov
+1140,9320 Hjallerup
+1141,9330 Dronninglund
+1142,9340 Asaa
+1143,9352 Dybvad
+1144,9362 Gandrup
+1145,9370 Hals
+1146,9380 Vestbjerg
+1147,9381 Sulsted
+1148,9382 Tylstrup
+1149,9400 Nørresundby
+1150,9430 Vadum
+1151,9440 Aabybro
+1152,9460 Brovst
+1153,9480 Løkken
+1154,9490 Pandrup
+1155,9492 Blokhus
+1156,9493 Saltum
+1157,9500 Hobro
+1158,9510 Arden
+1159,9520 Skørping
+1160,9530 Støvring
+1161,9541 Suldrup
+1162,9550 Mariager
+1163,9560 Hadsund
+1164,9574 Bælum
+1165,9575 Terndrup
+1166,9600 Aars
+1167,9610 Nørager
+1168,9620 Aalestrup
+1169,9631 Gedsted
+1170,9632 Møldrup
+1171,9640 Farsø
+1172,9670 Løgstør
+1173,9681 Ranum
+1174,9690 Fjerritslev
+1175,9700 Brønderslev
+1176,9740 Jerslev J
+1177,9750 Østervrå
+1178,9760 Vrå
+1179,9800 Hjørring
+1180,9830 Tårs
+1181,9850 Hirtshals
+1182,9870 Sindal
+1183,9881 Bindslev
+1184,9900 Frederikshavn
+1185,9940 Læsø
+1186,9970 Strandby
+1187,9981 Jerup
+1188,9982 Ålbæk
+1189,9990 Skagen
+1190,3900 Nuuk
+1191,3905 Nuussuaq
+1192,3910 Kangerlussuaq
+1193,3911 Sisimiut
+1194,3912 Maniitsoq
+1195,3913 Tasiilaq
+1196,3915 Kulusuk
+1197,3919 Alluitsup Paa
+1198,3920 Qaqortoq
+1199,3921 Narsaq
+1200,3922 Nanortalik
+1201,3923 Narsarsuaq
+1202,3924 Ikerasassuaq
+1203,3930 Kangilinnguit
+1204,3932 Arsuk
+1205,3940 Paamiut
+1206,3950 Aasiaat
+1207,3951 Qasigiannguit
+1208,3952 Ilulissat
+1209,3953 Qeqertarsuaq
+1210,3955 Kangaatsiaq
+1211,3961 Uummannaq
+1212,3962 Upernavik
+1213,3964 Qaarsut
+1214,3970 Pituffik
+1215,3971 Qaanaaq
+1216,3972 Station Nord
+1217,3980 Ittoqqortoormiit
+1218,3982 Mestersvig
+1219,3984 Danmarkshavn
+1220,3985 Constable Pynt
+1221,Danmark
+15177,Trekantområdet
+15178,Sjælland
+15179,Fyn
+15180,Sydjylland
+15181,Sønderjylland
+15182,Storkøbenhavn
+15183,Jylland
+15184,Øresundsregionen
+15185,Udlandet
+15186,Københavns vestegn
+15187,Nordsjælland
+15188,Sydsjælland
+15189,Midtsjælland
+15190,Vestsjælland
+15191,1000-1499 København K
+15192,1500-1799 København V
+15193,1800-1999 Frederiksberg C
+15194,Vestjylland
+15195,Østjylland
+15199,Aruba
+15203,Anguilla
+15207,Antigua og Barbuda
+15211,Saint Barthélemy
+15215,Bermuda
+15219,Bahamas
+15223,Belize
+15227,Barbados
+15231,Costa Rica
+15235,Curaçao
+15239,Cuba
+15243,Caymanøerne
+15247,Dominica
+15251,Grenada
+15255,Den Dominikanske Republik
+15259,Guatemala
+15263,Honduras
+15267,Haiti
+15271,Grønland
+15275,Jamaica
+15279,Saint Kitts og Nevis
+15283,Saint Lucia
+15287,Saint Martin
+15291,Montserrat
+15295,Mexico
+15299,Panama
+15303,Nicaragua
+15307,Puerto Rico
+15311,Canada
+15315,Saint Pierre og Miquelon
+15319,El Salvador
+15323,Sint Maarten
+15327,Turks- og Caicosøerne
+15331,Trinidad og Tobago
+15335,Amerikanske oversøiske øer
+15339,Saint Vincent og Grenadinerne
+15343,De Britiske Jomfruøer
+15347,De Amerikanske Jomfruøer
+15351,Bolivia
+15355,Argentina
+15359,USA
+15363,Brasilien
+15367,Colombia
+15371,Ecuador
+15375,Falklandsøerne
+15379,Chile
+15383,Guyana
+15387,Paraguay
+15391,Peru
+15395,Surinam
+15399,Uruguay
+15403,Afghanistan
+15407,Venezuela
+15411,De Forenede Arabiske Emirater
+15415,Armenien
+15419,Aserbajdsjan
+15423,Bahrain
+15427,Brunei
+15431,Bhutan
+15435,Bangladesh
+15439,Cypern
+15443,Georgien
+15447,Kina
+15451,Hongkong SAR
+15455,Indien
+15459,Iran
+15463,Irak
+15467,Israel
+15471,Jordan
+15475,Japan
+15479,Indonesien
+15483,Cambodja
+15487,Kasakhstan
+15491,Kirgisistan
+15495,Kuwait
+15499,Sydkorea
+15503,Libanon
+15507,Sri Lanka
+15511,Laos
+15515,Macao SAR
+15519,Myanmar (Burma)
+15523,Mongoliet
+15527,Nepal
+15531,Malaysia
+15535,Pakistan
+15539,Oman
+15543,Nordkorea
+15547,De palæstinensiske områder
+15551,Qatar
+15555,Saudi-Arabien
+15559,Singapore
+15563,Syrien
+15567,Filippinerne
+15571,Thailand
+15575,Tadsjikistan
+15579,Timor-Leste
+15583,Turkmenistan
+15587,Taiwan
+15591,Usbekistan
+15595,Yemen
+15599,Vietnam
+15603,Tyrkiet
+15607,De franske besiddelser i Det Sydlige Indiske Ocean
+15611,Heard Island og McDonald Islands
+15615,Det britiske territorium i Det Indiske Ocean
+15619,Maldiverne
+15623,Mauritius
+15627,South Georgia og South Sandwich Islands
+15631,St. Helena
+15635,Antarktis
+15639,Amerikansk Samoa
+15643,Seychellerne
+15647,Cookøerne
+15651,Fiji
+15655,Mikronesiens Forenede Stater
+15659,Australien
+15663,Guam
+15667,Nordmarianerne
+15671,Kiribati
+15675,Marshalløerne
+15679,Ny Kaledonien
+15683,Norfolk Island
+15687,Niue
+15691,Nauru
+15695,Pitcairn
+15699,Palau
+15703,New Zealand
+15707,Fransk Polynesien
+15711,Tonga
+15715,Salomonøerne
+15719,Papua Ny Guinea
+15723,Tuvalu
+15727,Wallis og Futuna
+15731,Samoa
+15735,Vanuatu
+15739,Åland
+15743,Albanien
+15747,Andorra
+15751,Bulgarien
+15755,Østrig
+15759,Belgien
+15763,Bosnien-Hercegovina
+15767,Schweiz
+15771,Hviderusland
+15775,Tjekkiet
+15779,Tyskland
+15783,Estland
+15787,Finland
+15791,Frankrig
+15795,Spanien
+15799,Færøerne
+15803,Guernsey
+15807,Gibraltar
+15811,Kroatien
+15815,Storbritannien
+15819,Grækenland
+15823,Ungarn
+15827,Isle of Man
+15831,Irland
+15835,Island
+15839,Jersey
+15843,Italien
+15847,Kosovo
+15851,Liechtenstein
+15855,Litauen
+15859,Luxembourg
+15863,Letland
+15867,Monaco
+15871,Makedonien
+15875,Malta
+15879,Moldova
+15883,Montenegro
+15887,Holland
+15891,Polen
+15895,Rumænien
+15899,Portugal
+15903,San Marino
+15907,Serbien
+15911,Slovakiet
+15915,Slovenien
+15919,Ukraine
+15923,Rusland
+15927,Vatikanstaten
+15931,Angola
+15935,Burundi
+15939,Benin
+15943,Burkina Faso
+15947,Botswana
+15951,Den Centralafrikanske Republik
+15955,Cameroun
+15959,Congo-Kinshasa
+15963,Elfenbenskysten
+15967,Comorerne
+15971,Congo-Brazzaville
+15975,Djibouti
+15979,Kap Verde
+15983,Algeriet
+15987,Egypten
+15991,Eritrea
+15995,Gabon
+15999,Etiopien
+16003,Ghana
+16007,Guinea
+16011,Guinea-Bissau
+16015,Ækvatorialguinea
+16019,Gambia
+16023,Kenya
+16027,Liberia
+16031,Lesotho
+16035,Marokko
+16039,Libyen
+16043,Madagaskar
+16047,Mali
+16051,Mauretanien
+16055,Mozambique
+16059,Namibia
+16063,Malawi
+16067,Nigeria
+16071,Niger
+16075,Rwanda
+16079,Vestsahara
+16083,Sudan
+16087,Senegal
+16091,Sydsudan
+16095,Sierra Leone
+16099,São Tomé og Príncipe
+16103,Swaziland
+16107,Somalia
+16111,Togo
+16115,Tchad
+16119,Tunesien
+16123,Uganda
+16127,Tanzania
+16131,Zimbabwe
+16135,Sydafrika
+16139,Zambia
+16147,Sverige
+16148,Norge
+16149,Skåne
+16150,Skandinavien
+16151,Norden
+16152,Den Europæiske Union
+16153,Europæisk Økonomisk Samarbejdsområde
+16154,Europa
